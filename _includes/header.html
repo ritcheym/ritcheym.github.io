@@ -1,0 +1,23 @@
+
+<div class="wrapper">
+  <left> <a href="/index.html"><div class="site-title">   {{site.title}} </div></a></left>
+</div>
+<!-- <div class="wrapper site-description">
+<left>  {{site.description}} </left>
+</div> -->
+<div class="wrapper">
+  <div class="trigger site-navigation">
+    <a class="page-link" href="{{site.url}}{{site.baseurl}}">HOME</a>
+
+    {% for sitePage in site.pages %}
+    {% if sitePage.title %}
+
+    <span class="exclamationMark">/</span><a class="page-link" href="{{sitePage.url | prepend: site.baseurl }}">{{sitePage.title}}</a>
+    {% endif %}
+    {% endfor %}
+
+    <span class="exclamationMark">/</span><a class="page-link" href="http://thememolab.org">LAB</a>
+    <span class="exclamationMark">/</span><a class="page-link" href="http://thememolab.org/publications">PAPERS</a>
+
+  </div>
+</div>
