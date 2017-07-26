@@ -34,6 +34,8 @@ comments: true
   {% endif %}
   </footer>
 
+{% if page.comments %}
   {% include disqus.html %}
+{% endif %}
 
 </article>
