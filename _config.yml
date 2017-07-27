@@ -14,6 +14,7 @@ url: "http://ritcheym.github.io/" # the base hostname & protocol for your site
 twitter_username: maureenritchey
 github_username:  ritcheym
 paginate: 5
+disqus: ritcheym-github-io
 
 gems: [jekyll-paginate, kramdown]
 # Build settings
