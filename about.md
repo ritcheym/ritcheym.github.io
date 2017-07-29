@@ -7,7 +7,7 @@ permalink: /about/
 ## Hi. I'm Maureen.
 I am a cognitive neuroscientist who studies the brain processes underlying memory and its modulation by emotion. I needed a spot to write some things longer than 140 characters, so here we are.
 
-For more information about my research, check out my [lab website](http://www.thememolab.org).
+For more information about my research, check out my [lab website](http://www.thememolab.org) or [CV](http://www.thememolab.org/people/cv/ritchey_cv.pdf).
 
 <br>
 
