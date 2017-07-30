@@ -2,7 +2,7 @@
 layout: post
 title:  "One year in"
 date:   2017-07-29
-categories: academia
+tags: academia
 ---
 
 When I showed up to work on my first official day as a faculty member, there was little fanfare. July 1st, 2016 was a Friday, and with the holiday weekend approaching, the building was quiet. I have found it frustrating that in science, the time to celebrate is rarely obvious. With papers, the final acceptance comes after a slog through resubmission. With grants, the notice of award comes months after the initial (often revealing) score. After my first day, I went out to a nice dinner and embraced the inherent optimism of celebrating the future.
