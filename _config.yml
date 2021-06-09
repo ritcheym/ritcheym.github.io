@@ -19,3 +19,5 @@ disqus: ritcheym-github-io
 gems: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-tactile
